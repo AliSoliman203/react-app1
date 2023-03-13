@@ -1,0 +1,132 @@
+{
+    "works" : [
+        {
+            "id" : 1,
+            "icon_name" : "icon fa fa-chain fa-2x",
+            "title" : "Mobile Ux",
+            "body" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel temporibus repellendus ipsum saepe neque. Suscipit, et. Aut minus asperiores vel?"
+        },
+        {
+            "id" : 2,
+            "icon_name" : "icon fa fa-bolt fa-2x",
+            "title" : "Mobile Ux",
+            "body" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel temporibus repellendus ipsum saepe neque. Suscipit, et. Aut minus asperiores vel?"
+        },
+        {
+            "id" : 3,
+            "icon_name" : "icon fa fa-tachometer fa-2x",
+            "title" : "Mobile Ux",
+            "body" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel temporibus repellendus ipsum saepe neque. Suscipit, et. Aut minus asperiores vel?"
+        }
+    ],
+
+    "portfolio" : [
+        {
+            "id" : 1,
+            "image" : "images/portfolio-img1.jpg" 
+        },
+        {
+            "id" : 2,
+            "image" : "images/portfolio-img2.jpg" 
+        },
+        {
+            "id" : 3,
+            "image" : "images/portfolio-img3.jpg" 
+        },
+        {
+            "id" : 4,
+            "image" : "images/portfolio-img4.jpg" 
+        },
+        {
+            "id" : 5,
+            "image" : "images/portfolio-img5.jpg" 
+        },
+        {
+            "id" : 6,
+            "image" : "images/portfolio-img6.jpg" 
+        },
+        {
+            "id" : 7,
+            "image" : "images/portfolio-img7.jpg" 
+        },
+        {
+            "id" : 8,
+            "image" : "images/portfolio-img8.jpg" 
+        }
+    ],
+
+    "social" : [
+        {
+            "id" : 1,
+            "icon" : "icon fa fa-facebook fa-lg",
+            "title" : "Follow Me On",
+            "body" : "Social Facebook",
+            "value": "face"
+        },
+        {
+            "id" : 2,
+            "icon" : "icon fa fa-twitter fa-lg",
+            "title" : "Tweet Me On",
+            "body" : "Social Twitter",
+            "value": "twitter"
+        },
+        {
+            "id" : 3,
+            "icon" : "icon fa fa-pinterest fa-lg",
+            "title" : "Pin Me On",
+            "body" : "Social Pinterest",
+            "value": "pin"
+        }
+    ],
+
+    "profile" : [
+        {
+            "id" : 1,
+            "title" : "Name",
+            "value" : "Ali Soliman"
+        },
+        {
+            "id" : 2,
+            "title" : "Birthday",
+            "value" : "13/2/1997"
+        },
+        {
+            "id" : 3,
+            "title" : "Address",
+            "value" : "Tartous City"
+        },
+        {
+            "id" : 4,
+            "title" : "Phone",
+            "value" : "+963 912 345 678"
+        },
+        {
+            "id" : 5,
+            "title" : "Email",
+            "value" : "ali.soool1997@gmail.com"
+        },
+        {
+            "id" : 6,
+            "title" : "Website",
+            "value" : "www.google.com"
+        }
+    ],
+
+    "skills" : [
+        {
+            "id" : 1,
+            "title" : "Bootstrap",
+            "percent" : "100%"
+        },
+        {
+            "id" : 2,
+            "title" : "CSS3",
+            "percent" : "90%"
+        },
+        {
+            "id" : 3,
+            "title" : "Photoshop",
+            "percent" : "80%"
+        }
+    ]
+}
