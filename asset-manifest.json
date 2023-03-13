@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AliSoliman203/react-app1.git/static/css/main.2eecb2fb.css",
+    "main.js": "/AliSoliman203/react-app1.git/static/js/main.2bf7f072.js",
+    "static/js/787.77909530.chunk.js": "/AliSoliman203/react-app1.git/static/js/787.77909530.chunk.js",
+    "index.html": "/AliSoliman203/react-app1.git/index.html",
+    "main.2eecb2fb.css.map": "/AliSoliman203/react-app1.git/static/css/main.2eecb2fb.css.map",
+    "main.2bf7f072.js.map": "/AliSoliman203/react-app1.git/static/js/main.2bf7f072.js.map",
+    "787.77909530.chunk.js.map": "/AliSoliman203/react-app1.git/static/js/787.77909530.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2eecb2fb.css",
+    "static/js/main.2bf7f072.js"
+  ]
+}
