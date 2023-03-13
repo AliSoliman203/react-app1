@@ -18,7 +18,7 @@ const Navbar = () => {
                 <Label htmlFor="nav"></Label>
                 
                 <Ulist>
-                    <ListItem><Link className="iXYjvU" to="/">Home</Link></ListItem>
+                    <ListItem><Link className="iXYjvU" to="/react-app1/">Home</Link></ListItem>
                     <ListItem><Anchor>Work</Anchor></ListItem>
                     <ListItem><Anchor>Portfolio</Anchor></ListItem>
                     <ListItem><Anchor>Resume</Anchor></ListItem>
